@@ -1,4 +1,4 @@
-Final project
+# Final project
 Building AI course
 
 ## Summary
